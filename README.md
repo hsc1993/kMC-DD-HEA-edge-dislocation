@@ -24,7 +24,7 @@ This project is developed in [MATLAB](https://www.mathworks.com/products/matlab.
 input_HEA.m is the file where simulation parameters and material parameters are specified, start with this file to make sure the set up is correct.
 
 ### kMC/DD simulation
-
+dd3d_hea.m is the main file, it is overall a kMC algorithm, and between each kMC events, DD simulations serve to fill the time interval. As the simulation runs, a movie of dislocation line motion will be created in real time. Also, the strain-vs-simulation time will be written into txt files for later analysis.
 
 
 
