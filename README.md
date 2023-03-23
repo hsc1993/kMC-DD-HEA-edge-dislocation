@@ -20,12 +20,12 @@ This project is developed in [MATLAB](https://www.mathworks.com/products/matlab.
 
 ## Usage
 
-### Dislocation extraction
+### input parameters
+input_HEA.m is the file where simulation parameters and material parameters are specified, start with this file to make sure the set up is correct.
+
+### kMC/DD simulation
 
 
-### Spatial tessellation
-
-### Gaussian GND calculation
 
 
 ## Example
